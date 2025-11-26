@@ -7,7 +7,7 @@ AnividAI is the ultimate platform for creating original anime characters and bri
 
   
 
-![OC Showcase](https://artworks.anividai.com/assets/gallery/landingpage_oc_showcase/creamy/profile.webp)
+![OC Showcase](https://artworks.anividai.com/gallery/landingpage_oc_showcase/creamy/profile.webp)
 
   
 
@@ -19,7 +19,7 @@ Unlike other AI art generators, AnividAI is designed around the concept of Origi
 
   
 
-![Character Creation](https://artworks.anividai.com/assets/showcases/landingpage-features/feature-ocs-maker.webp)
+![Character Creation](https://artworks.anividai.com/showcases/landingpage-features/feature-ocs-maker.webp)
 
   
 
@@ -31,7 +31,7 @@ Experience the next generation of AI-powered anime art creation. Our intelligent
 
   
 
-![AI Generation](https://artworks.anividai.com/assets/showcases/landingpage-features/feature-anime-generator.webp)
+![AI Generation](https://artworks.anividai.com/showcases/landingpage-features/feature-anime-generator.webp)
 
   
 
@@ -43,7 +43,7 @@ Transform static images into dynamic animations with our AI Video Generator. Cre
 
   
 
-[Video Creation](https://artworks.anividai.com/assets/showcases/landingpage-features/feature-video-generator.mp4)
+[Video Showcases -> ](https://artworks.anividai.com/showcases/landingpage-features/feature-video-generator.mp4)
 
   
 
@@ -55,7 +55,7 @@ Chat with your OCs using advanced AI that understands character personality, bac
 
   
 
-![Chat Interface](https://artworks.anividai.com/assets/showcases/landingpage-features/feature-chat.webp)
+![Chat Interface](https://artworks.anividai.com/showcases/landingpage-features/feature-chat.webp)
 
   
 
@@ -67,7 +67,7 @@ Unlock new possibilities with our growing collection of OC-powered applications.
 
   
 
-![OC Apps](https://artworks.anividai.com/assets/showcases/landingpage-features/feature-oc-apps.webp)
+![OC Apps](https://artworks.anividai.com/showcases/landingpage-features/feature-oc-apps.webp)
 
   
 
