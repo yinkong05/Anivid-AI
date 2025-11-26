@@ -1,5 +1,5 @@
 
-### AnividAI - The Original Character Driven AI Anime Creation Platform
+## AnividAI - The Original Character Driven AI Anime Creation Platform
 
   
 
@@ -43,7 +43,7 @@ Transform static images into dynamic animations with our AI Video Generator. Cre
 
   
 
-![Video Creation](https://artworks.anividai.com/assets/showcases/landingpage-features/feature-video-generator.mp4)
+[Video Creation](https://artworks.anividai.com/assets/showcases/landingpage-features/feature-video-generator.mp4)
 
   
 
